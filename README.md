@@ -1,3 +1,2 @@
-# micro-bit
-Storing micro bit lessons
-microbit tutorial I
+A tutorial on using the BBC micro:bit
+
